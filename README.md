@@ -1,2 +1,2 @@
-# contact-list
+# Contact List
 Just another Contact List application
